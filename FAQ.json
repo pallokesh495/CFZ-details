@@ -3,11 +3,7 @@
     "question": "What is your registered name?",
     "answer": "its CFZ OPC private limited"
   },
-<<<<<<< HEAD
-   {
-=======
   {
->>>>>>> 134e7af206a6dcb7f0c97d3d53e5c7904c882182
     "question": "What services do you provide?",
     "answer": "App Development, Game Development, Digital Marketing, AI Automation"
   },
@@ -23,16 +19,8 @@
     "question": "Do you offer support?",
     "answer": "Yes, we offer 24/7 customer support via chat and email."
   },
-<<<<<<< HEAD
-   {
+  {
     "question": "what are your contact details?",
     "answer": "support.cfz@mail.com"
   }
 ]
-=======
-  {
-    "question": "What are your contact details?",
-    "answer": "support.cfz@mail.com"
-  }
-]
->>>>>>> 134e7af206a6dcb7f0c97d3d53e5c7904c882182
