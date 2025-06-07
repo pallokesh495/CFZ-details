@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is your registered name?",
+    "answer": "its CFZ OPC private limited"
+  },
+<<<<<<< HEAD
+   {
+=======
+  {
+>>>>>>> 134e7af206a6dcb7f0c97d3d53e5c7904c882182
+    "question": "What services do you provide?",
+    "answer": "App Development, Game Development, Digital Marketing, AI Automation"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "We offer a 7-day return policy with a full refund if unable to satisfy your requirements."
+  },
+  {
+    "question": "Where are you located?",
+    "answer": "We are based in Mohali, sector-67, India."
+  },
+  {
+    "question": "Do you offer support?",
+    "answer": "Yes, we offer 24/7 customer support via chat and email."
+  },
+<<<<<<< HEAD
+   {
+    "question": "what are your contact details?",
+    "answer": "support.cfz@mail.com"
+  }
+]
+=======
+  {
+    "question": "What are your contact details?",
+    "answer": "support.cfz@mail.com"
+  }
+]
+>>>>>>> 134e7af206a6dcb7f0c97d3d53e5c7904c882182
